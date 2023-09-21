@@ -1,0 +1,6 @@
+Git es un sistema de control de versiones dividido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo.
+
+Clon:línea de comandos de Git que se utiliza para fijar como objetivo un repositorio existente con el fin de clonarlo o copiarlo.
+Push:se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia al otro repositorio.
+Commit:captura una instantánea de los cambios preparados en ese momento del proyecto
+Pull: se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
